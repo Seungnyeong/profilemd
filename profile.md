@@ -1,0 +1,46 @@
+## 💻 IT
+
+### Java ⭐️⭐️⭐️
+
+- 처음 개발을 시작하게 한 언어로, Spring 3.0과 Spring boot 를 통하여 개발하였습니다.
+- 현재는, JPA와 함께 도메인 주도 설계에 관심을 갖고 공부하고 있습니다.
+- 현재는, Django에서 Python에서 Java11과 Spring Boot JPA를 통한 개발을 하고 있습니다.
+- [ ] 프로그래머스 물건 주문 API : [https://github.com/Seungnyeong/orderapi](https://github.com/Seungnyeong/orderapi)
+- [ ] 기본 회원가입 API : [https://github.com/Seungnyeong/crime-member-api](https://github.com/Seungnyeong/crime-member-api/)
+
+### Python ⭐️⭐️⭐️
+
+- Django Rest Framework를 이용하여, 사내 보안 서비스 백엔드 개발을 주도하여 제작하였습니다.
+- RAW 데이터 가공 및 자동화 스크립트를 제작하는 경우 많이 사용하였습니다.
+- [ ] docker-compose, Django Restframework, mysql을 이용한 출퇴근 등록 API : [https://github.com/Seungnyeong/commute_api](https://github.com/Seungnyeong/commute_api)
+- [ ] Django Framework를 이용한 Airbnb clone 코딩 : [https://github.com/Seungnyeong/airbnb-clone](https://github.com/Seungnyeong/airbnb-clone) (교육)
+
+### Javascript / React ⭐️⭐️⭐️⭐️
+
+- 개인적으로 가장 좋아하는 언어입니다. frontend 개발시에 자주 사용하였습니다.
+- 리액트 공부이후에는 JQuery 보다는 React.js를 선호합니다.
+- React Hook, Redux, 다양한 라이브러리를 통하여 개발하였습니다.
+- Javascript 보다 개발에 안정성이 뛰어난 Typescript를 프로젝트 진행시 함께 하려고 하고 있습니다.
+- [ ] Movie API 를 이용한 영화 검색 서비스 : [https://github.com/Seungnyeong/nomflix](https://github.com/Seungnyeong/nomflix)
+- [ ] Airbnb React-Native Mobile : [https://github.com/Seungnyeong/airbnb-native](https://github.com/Seungnyeong/airbnb-native)
+
+### Golang ⭐️
+
+- 멀티쓰레드 매커니즘의 경량 쓰레드인 고루틴에 관심을 갖게되어, 간단한 script나 echo 서버를 활용하여 간단한 RESTful API 제작하여 사용하고 있습니다.
+- [ ] Go를 이용한 가상화폐 개발 코딩 : [https://github.com/Seungnyeong/gocoin](https://github.com/Seungnyeong/gocoin) (교육)
+- [ ] Go를 이용한 Service monitoring Check Alert : [https://github.com/Seungnyeong/go-elk-alert-email](https://github.com/Seungnyeong/go-elk-alert-email)
+- [ ] Go를 이용한 nmap 스캔 : [https://github.com/Seungnyeong/gonmap](https://github.com/Seungnyeong/gonmap)
+
+### 문서 작성 ⭐️⭐️⭐️⭐️
+
+- 다수의 API 가이드 문서를 작성하여 고객사 또는 협업팀에 제공하였습니다.
+- 프로젝트 설계 및 구성도를 작성하였습니다.
+
+### 기타 활용 스킬 ⭐️⭐️⭐️⭐️
+
+- 젠킨스를 활용하여 Django , Spring, Go, React 등 CI / CD 파이프라인 작성하였습니다.
+- Git 과 Jira 등 브랜치 전략을 세우고, 소스 형상관리 경험이 있습니다.
+- Shell Script 를 이용한 배포 스크립트 작성하였습니다.
+- beats, logstash, elastic search, kibana를 활용하여 로그 관리, 모니터링, 알람기능을 활용하였습니다.
+- Swagger UI를 이용한 API 제공하였습니다.
+- docker-compose를 활용하여, 개인 PC에서 서버의 환경과 같게 구성하여 개발합니다.
